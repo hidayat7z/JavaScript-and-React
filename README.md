@@ -1,2 +1,1 @@
-# ReactJS
-Basics of React
+Basics of JavaScript and React
