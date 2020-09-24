@@ -1,4 +1,7 @@
-Basics of JavaScript and React
+# # Basics of JavaScript and React
+
+
+-----------------------------------------------------------------------------
 
 React is a JavaScript library for building user interfaces.
 
